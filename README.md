@@ -8,9 +8,13 @@ It has the following features:
 * Removes all non-service requests from the requests table (keepalive, ready, prepare, etc.)
 * Color codes requests based on the following rules:
 
-Green = 0-1000ms
-Yellow = 5000-10,000ms
-Red = > 10,000ms
+|  Color |Request Time   |
+|---|---|
+| Green  | 0-1000ms  |
+| Yellow  | 5000-10,000ms  |
+| Red  | > 10,000ms  |
+
+Feel free to play with the colors or the color-coding rules to suit your needs.
 
 * Left justifies URL's so that long requests don't mess up the page with scrollbars
 * Decodes URL's to you can actually read more complex requests
