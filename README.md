@@ -8,7 +8,7 @@ It has the following features:
 * Removes all non-service requests from the requests table (keepalive, ready, prepare, etc.)
 * Color codes requests based on the following rules:
 
-|  Color |Request Time   |
+|  Color |Request Time Range  |
 |---|---|
 | Green  | 0-1000ms  |
 | Yellow  | 5000-10,000ms  |
