@@ -20,6 +20,10 @@ Feel free to play with the colors or the color-coding rules to suit your needs.
 * Decodes URL's to you can actually read more complex requests
 * Shows the average request time for the current requests on the page to get an instantaneous snapshot
 
+![Before](https://github.com/leeorengel/tomcatStatusPretty/blob/master/before.png "Before")
+
+![After](https://github.com/leeorengel/tomcatStatusPretty/blob/master/after.png "After (Pretty!)")
+
 # Installation
 
 Just copy the contents of tomcatStatusPretty.js into the address field of a new bookmark in your browser. Then load the tomcat manager status page and click on the bookmark - voila! Pretty color coded, and cleaned up request entries.
