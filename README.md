@@ -28,7 +28,7 @@ Feel free to play with the colors or the color-coding rules to suit your needs.
 
 Just copy the contents of tomcatStatusPretty.js into the address field of a new bookmark in your browser. Then load the tomcat manager status page and click on the bookmark - voila! Pretty color coded, and cleaned up request entries.
 
-Tested on latest Chrome and Firefox for tomcat versions 6 & 7.
+Tested on latest Chrome and Firefox for tomcat versions 6, 7 & 8.
 
 # Credits
 
