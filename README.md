@@ -35,3 +35,7 @@ Tested on latest Chrome and Firefox for tomcat versions 6, 7 & 8.
 http://benalman.com/code/test/jquery-run-code-bookmarklet/
 
 for bookmarklet skeleton with jquery.
+
+# License
+
+Code licensed under [MIT license](https://github.com/leeorengel/tomcatStatusPretty/blob/master/LICENSE).
